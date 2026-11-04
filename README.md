@@ -37,7 +37,6 @@
 💬 &nbsp;**Now:** 関係値の動的更新によるキャラクター対話LLM
 🛠️ &nbsp;**Engineering:** サーバーサイド・インフラ・Web
 🌍 &nbsp;**Location:** Okinawa, Japan 🇯🇵
-🎯 &nbsp;**Goal:** 研究と実装の両輪で、使われるものをつくる
 
 </td>
 </tr>
@@ -355,7 +354,5 @@ LLM の長期記憶・会話ベンチマークの
 <div align="center">
 
 **⭐ From [Kaisei Tomoyose](https://kaiserdomain.com/) with ❤️ in Okinawa**
-
-*"研究で問いを立て、実装で答え合わせする。 🏝️"*
 
 </div>
