@@ -144,13 +144,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎪 &nbsp;[hello-tech-jam](https://github.com/e225721B/hello-tech-jam)
-Next.js 16 + shadcn/ui で作った
-ハッカソン作品
+### ☄️ &nbsp;[asteroid_tracker](https://github.com/e225721B/asteroid_tracker)
+NASA NeoWs API で地球接近小惑星を追跡。
+一覧/詳細とお気に入りを SQLite に永続化
 
-<img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/NASA%20API-0B3D91?style=flat-square&logo=nasa&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -173,7 +174,7 @@ LLM の長期記憶・会話ベンチマークの
 
 | | Project | What it is |
 |:-:|:--|:--|
-| ☄️ | **[asteroid_tracker](https://github.com/e225721B/asteroid_tracker)** | 小惑星トラッキングアプリ · `Flutter` `C++` |
+| 🎪 | **[hello-tech-jam](https://github.com/e225721B/hello-tech-jam)** | Next.js 16 + shadcn/ui のハッカソン作品 · `Next.js` `Tailwind v4` `Docker` |
 | 🧠 | **[generative_agents](https://github.com/e225721B/generative_agents)** | 生成エージェントのシミュレーション実装 · `Python` |
 | 🎯 | **[ieQuiz](https://github.com/e225721B/ieQuiz)** | 学科向けクイズアプリ · `Python` |
 
