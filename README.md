@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Kaisei%20Tomoyose&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=LLM%20Research%20%E2%9C%A6%20Web%20%E2%9C%A6%20Infra&descAlignY=55&descSize=18&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Kaiser&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=LLM%20Research%20%E2%9C%A6%20Web%20%E2%9C%A6%20Infra&descAlignY=55&descSize=18&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%20there%21%20I%27m%20Kaisei%20%F0%9F%91%8B;Graduate%20Student%20%40%20University%20of%20the%20Ryukyus%20%F0%9F%8F%9D%EF%B8%8F;LLM%20%26%20Character%20Dialogue%20Researcher%20%F0%9F%A4%96;Full-Stack%20%2F%20Infra%20Engineer%20%F0%9F%9A%80;Speaker%20%40%20IPSJ%20%26%20AI%20Agent%20Okinawa%20%F0%9F%8E%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%20there%21%20I%27m%20Kaiser%20%F0%9F%91%8B;Graduate%20Student%20%40%20University%20of%20the%20Ryukyus%20%F0%9F%8F%9D%EF%B8%8F;LLM%20%26%20Character%20Dialogue%20Researcher%20%F0%9F%A4%96;Full-Stack%20%2F%20Infra%20Engineer%20%F0%9F%9A%80;Speaker%20%40%20IPSJ%20%26%20AI%20Agent%20Okinawa%20%F0%9F%8E%A4" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 </td>
 <td width="450" align="left">
 
-### 👋 **Hi, I'm Kaisei!**
+### 👋 **Hi, I'm Kaiser!**
 
 🎓 &nbsp;**琉球大学大学院** 理工学研究科 知能情報プログラム
 🔬 &nbsp;**Research:** 機械学習 / 画像処理 / LLM
@@ -353,6 +353,6 @@ LLM の長期記憶・会話ベンチマークの
 
 <div align="center">
 
-**⭐ From [Kaisei Tomoyose](https://kaiserdomain.com/) with ❤️ in Okinawa**
+**⭐ From [Kaiser](https://kaiserdomain.com/) with ❤️ in Okinawa**
 
 </div>
